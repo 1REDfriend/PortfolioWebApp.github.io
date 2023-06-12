@@ -71,3 +71,10 @@ button:focus-visible {
   }
 }
 
+@media (max-width: 743px) {
+  :root {
+    scale: 50%;
+    transition: ease-in-out 1s;
+    text-align: center;
+  }
+}
