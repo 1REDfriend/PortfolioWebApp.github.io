@@ -29,6 +29,7 @@ function App() {
                 <p className='text-center text-sm text-gray-500 -m-2'>{text}</p>
               </div>
             </div>
+            
           </div>
         } />
         <Route path="/KMITL" element={<OtherPage />} />
