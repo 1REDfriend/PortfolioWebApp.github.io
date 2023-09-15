@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate  } from 'react-router-dom';
-import image1 from 'src/assets/1.png'; // Import the image using a relative path
-import image2 from 'src/assets/2.png';
+import image1 from './assets/1.png'; // Import the image using a relative path
+import image2 from './assets/2.png';
 
 function KMITL() {
   const navigate  = useNavigate ();
