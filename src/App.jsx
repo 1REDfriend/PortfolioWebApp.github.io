@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import './App.css'
 import OtherPage from './KMITL.jsx'
 
+
+
 function App() {
   const [text, setText] = useState('7/6/2566')
 
